@@ -12,3 +12,18 @@ CS 1570:
 - HW 7: https://onlinegdb.com/Wk9b0Km4pf
 - HW 8: https://onlinegdb.com/WCnnzYQA1
 - HW 9: https://onlinegdb.com/KfRdrSYZL
+
+CS 1580:
+- Lab 1: Lost
+- Lab 2: https://onlinegdb.com/g5YKGzthh
+- Lab 3: https://onlinegdb.com/4TX62zIfr
+- Lab 4: https://onlinegdb.com/R50zOnwn7
+- Lab 5: https://onlinegdb.com/yF-Y6GLP-
+- Lab 6: https://onlinegdb.com/-amw_PjdX
+- Lab 7: https://onlinegdb.com/Bcjk16XJV
+- Lab 8: Lost
+- Lab 9: https://onlinegdb.com/L_xMZkZo1
+- Lab 10: https://onlinegdb.com/zhX0XDEEG
+- Lab 11: https://onlinegdb.com/OnUdEvt4W
+- Lab 12: https://onlinegdb.com/ntLAUroPO
+- Lab 13: https://onlinegdb.com/jtvymXysV
