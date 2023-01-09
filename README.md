@@ -17,15 +17,15 @@ Introductory course for C++ and its lab
 
 ## CS 1580 (Lab):
 - __Lab 1:__ Lost
-- __Lab 2:__ https://onlinegdb.com/g5YKGzthh
-- __Lab 3:__ https://onlinegdb.com/4TX62zIfr
-- __Lab 4:__ https://onlinegdb.com/R50zOnwn7
-- __Lab 5:__ https://onlinegdb.com/yF-Y6GLP-
-- __Lab 6:__ https://onlinegdb.com/-amw_PjdX
-- __Lab 7:__ https://onlinegdb.com/Bcjk16XJV
+- __[Lab 2](https://onlinegdb.com/g5YKGzthh)__
+- __[Lab 3](https://onlinegdb.com/4TX62zIfr)__
+- __[Lab 4](https://onlinegdb.com/R50zOnwn7)__
+- __[Lab 5](https://onlinegdb.com/yF-Y6GLP-)__
+- __[Lab 6](https://onlinegdb.com/-amw_PjdX)__
+- __[Lab 7](https://onlinegdb.com/Bcjk16XJV)__
 - __Lab 8:__ Lost
-- __Lab 9:__ https://onlinegdb.com/L_xMZkZo1
-- __Lab 10:__ https://onlinegdb.com/zhX0XDEEG
-- __Lab 11:__ https://onlinegdb.com/OnUdEvt4W
-- __Lab 12:__ https://onlinegdb.com/ntLAUroPO
-- __Lab 13:__ https://onlinegdb.com/jtvymXysV
+- __[Lab 9](https://onlinegdb.com/L_xMZkZo1)__
+- __[Lab 10](https://onlinegdb.com/zhX0XDEEG)__
+- __[Lab 11](https://onlinegdb.com/OnUdEvt4W)__
+- __[Lab 12](https://onlinegdb.com/ntLAUroPO)__
+- __[Lab 13](https://onlinegdb.com/jtvymXysV)__
