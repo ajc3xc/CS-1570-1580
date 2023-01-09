@@ -6,7 +6,7 @@ Introductory course for C++ and its lab
 ## CS 1570:
 - __[HW 1](https://onlinegdb.com/R38R3jgo0)__
 - __[HW 2](https://onlinegdb.com/BoDpAExCa)__
-- __HW 3:__ https://onlinegdb.com/37MU3Tb7y , https://onlinegdb.com/2-0Rzt450
+- __[HW 3](https://onlinegdb.com/37MU3Tb7y)__
 - __[HW 4](https://onlinegdb.com/swWfxortF)__
 - __[HW 5](https://onlinegdb.com/3ladoUTlA)__
 - __[HW 6](https://onlinegdb.com/OsNq4tA-K)__
