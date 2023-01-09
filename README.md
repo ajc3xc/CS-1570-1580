@@ -1,10 +1,10 @@
 ![download](https://user-images.githubusercontent.com/91383782/211229370-4f4e499f-63ab-41da-a874-a835be17e73b.jpg)
 # CS-1570-1580
 Introductory course for C++ and its lab
-<br/>
-<br/>
+<br/><br/>
+
 ## CS 1570:
-- __HW 1:__ https://onlinegdb.com/R38R3jgo0
+- __[HW 1](https://onlinegdb.com/R38R3jgo0)__
 - __HW 2:__ https://onlinegdb.com/BoDpAExCa
 - __HW 3:__ https://onlinegdb.com/37MU3Tb7y , https://onlinegdb.com/2-0Rzt450
 - __HW 4:__ https://onlinegdb.com/swWfxortF
