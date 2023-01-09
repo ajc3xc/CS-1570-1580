@@ -1,6 +1,6 @@
 ![download](https://user-images.githubusercontent.com/91383782/211229370-4f4e499f-63ab-41da-a874-a835be17e73b.jpg)
 # CS-1570-1580
-Introductory course for C++ and its lab<br\>
+Introductory course for C++ and its lab/
 
 
 ## CS 1570:
