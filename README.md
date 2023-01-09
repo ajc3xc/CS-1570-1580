@@ -5,15 +5,15 @@ Introductory course for C++ and its lab
 
 ## CS 1570:
 - __[HW 1](https://onlinegdb.com/R38R3jgo0)__
-- __HW 2:__ https://onlinegdb.com/BoDpAExCa
+- __[HW 2](https://onlinegdb.com/BoDpAExCa)__
 - __HW 3:__ https://onlinegdb.com/37MU3Tb7y , https://onlinegdb.com/2-0Rzt450
-- __HW 4:__ https://onlinegdb.com/swWfxortF
-- __HW 5:__ https://onlinegdb.com/3ladoUTlA
-- __HW 6:__ https://onlinegdb.com/OsNq4tA-K
-- __HW 7:__ https://onlinegdb.com/Wk9b0Km4pf
-- __HW 8:__ https://onlinegdb.com/WCnnzYQA1
-- __HW 9:__ https://onlinegdb.com/KfRdrSYZL
-<br/>
+- __[HW 4](https://onlinegdb.com/swWfxortF)__
+- __[HW 5](https://onlinegdb.com/3ladoUTlA)__
+- __[HW 6](https://onlinegdb.com/OsNq4tA-K)__
+- __[HW 7](https://onlinegdb.com/Wk9b0Km4pf)__
+- __[HW 8](https://onlinegdb.com/WCnnzYQA1)__
+- __[HW 9](https://onlinegdb.com/KfRdrSYZL)__
+<br/><br/>
 
 ## CS 1580 (Lab):
 - __Lab 1:__ Lost
