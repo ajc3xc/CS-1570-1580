@@ -30,3 +30,4 @@ Introductory course for C++ and its lab
 - __[Lab 11](https://onlinegdb.com/OnUdEvt4W)__
 - __[Lab 12](https://onlinegdb.com/ntLAUroPO)__
 - __[Lab 13](https://onlinegdb.com/jtvymXysV)__
+- __[Pictures](Pictures)__
